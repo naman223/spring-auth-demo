@@ -1,6 +1,7 @@
 package com.security.auth.springauthdemo.config;
 
 import com.security.auth.springauthdemo.repository.UserRepository;
+import com.security.auth.springauthdemo.service.GroupUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -21,7 +22,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     UserRepository userRepository;
 
     @Autowired
-    private UserDetailsService userDetailsService;
+    private GroupUserDetailsService userDetailsService;
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {

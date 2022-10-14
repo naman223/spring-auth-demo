@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e508534-314f-41cd-a7f0-2889247c49be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/security/auth/springauthdemo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/security/auth/springauthdemo/config/SecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DockDockBuild.Settings">
+    <option name="codePath" value="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="342c8c33-c898-47b7-aee6-ee8019985f0a" />
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="osba-quickstart-cluster-admin" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.1-bin/2l5mhf2pq2clrde7f7qp1rdt5m/apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sObWoo5KKeZpY76vWTIQoikqg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAuthDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-auth-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.auth.springauthdemo.SpringAuthDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e508534-314f-41cd-a7f0-2889247c49be" name="Default Changelist" comment="" />
+      <created>1620746619878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620746619878</updated>
+      <workItem from="1620746621047" duration="2604000" />
+      <workItem from="1620750121384" duration="4447000" />
+      <workItem from="1621268185100" duration="1105000" />
+      <workItem from="1628930036839" duration="633000" />
+      <workItem from="1629186332808" duration="1828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/spring-auth-demo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1620890798769">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser/0.23.1440.792@0.23.1440.792" timestamp="1620890798769" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1620894676682">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1620894676682" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1620894676682">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1620894676682" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1620894676681">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1620894676681" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1620894676682">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1620894676682" />
+    <state width="1398" height="195" key="GridCell.Tab.1.bottom" timestamp="1620894676683">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1620894676683" />
+    <state width="1398" height="195" key="GridCell.Tab.1.center" timestamp="1620894676683">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1620894676683" />
+    <state width="1398" height="195" key="GridCell.Tab.1.left" timestamp="1620894676683">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1620894676683" />
+    <state width="1398" height="195" key="GridCell.Tab.1.right" timestamp="1620894676683">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1620894676683" />
+    <state x="440" y="128" key="RollbackChangesDialog" timestamp="1620748591769">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="440" y="128" key="RollbackChangesDialog/0.23.1440.792@0.23.1440.792" timestamp="1620748591769" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1620894191850">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="221" y="58" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1620750072350" />
+    <state x="221" y="58" key="SettingsEditor/0.23.1440.795@0.23.1440.795" timestamp="1620893919887" />
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1620894191850" />
+  </component>
+</project>
